@@ -50,7 +50,7 @@ Users can:
 With its user-friendly interface, comprehensive features, and modern technologies, GradeLink aims to revolutionize class organization and communication between students, teachers, and administrators.
 
 ## Entity Relationship Diagram 
-  - **Eraser Link** : [​eraser.io](https://app.eraser.io/workspace/dmJXrBEQXtac7KKlIt3G)
+  - **Eraser Link** : <a href="https://app.eraser.io/workspace/dmJXrBEQXtac7KKlIt3G" target="_blank">eraser.io</a>
     
 ## Demo of the Project: 
-  - **Demo Link** : [demo](https://gradelink.netlify.app/)
+  - **Demo Link** : <a href="https://gradelink.netlify.app/" target="_blank">demo</a>
