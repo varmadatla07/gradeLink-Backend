@@ -48,3 +48,9 @@ Users can:
 - **Database**: MongoDB
 
 With its user-friendly interface, comprehensive features, and modern technologies, GradeLink aims to revolutionize class organization and communication between students, teachers, and administrators.
+
+## Entity Relationship Diagram 
+  - **Eraser Link** : [​eraser.io](https://app.eraser.io/workspace/dmJXrBEQXtac7KKlIt3G)
+    
+## Demo of the Project: 
+  - **Demo Link** : [demo](https://gradelink.netlify.app/)
